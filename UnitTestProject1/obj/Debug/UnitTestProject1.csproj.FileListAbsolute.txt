@@ -1,0 +1,27 @@
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\hw 2703 - Sql In Cs.exe
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\hw 2703 - Sql In Cs.pdb
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\hw 2703 - Sql In Cs.exe.config
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\Users\Owner\source\repos\hw 2703 - Sql In Cs\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.xml
